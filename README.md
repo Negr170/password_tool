@@ -38,7 +38,7 @@ Un outil en Python qui combine deux fonctionnalités essentielles pour la gestio
 
 1. **Cloner le dépôt GitHub** :  
    ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-repo.git
+   git clone https://github.com/Negr170/password_tool.git
    cd nom-du-repo
    ```
 
