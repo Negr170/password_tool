@@ -1,5 +1,3 @@
----
-
 ## 🔑 **Vérificateur et Générateur de Mots de Passe Sécurisés**
 
 Un outil en Python qui combine deux fonctionnalités essentielles pour la gestion des mots de passe :  
